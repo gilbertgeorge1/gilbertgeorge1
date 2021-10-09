@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @gilbertgeorge1
-- 👀 I’m interested in applivation development and design
-- 🌱 I’m currently learning iOS development
-- 💞️ I’m looking to collaborate on projects
+- 👀 I’m interested in application development and design as well as cloud computing
+-🏾👌 I’m looking to collaborate on projects
 - 📫 How to reach me: linkedin.com/in/georgecgilbert
 
 <!---
